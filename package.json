@@ -1,0 +1,28 @@
+{
+  "name": "ibmcloud-nlu-demo",
+  "version": "1.0.0",
+  "description": "ibm cloud natural language processing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashikCodecamper/ibmcloud-nlu-demo.git"
+  },
+  "keywords": [
+    "nlp"
+  ],
+  "author": "Ashikur Rahaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashikCodecamper/ibmcloud-nlu-demo/issues"
+  },
+  "homepage": "https://github.com/ashikCodecamper/ibmcloud-nlu-demo#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "ibm-watson": "^4.2.5"
+  }
+}
